@@ -1,5 +1,8 @@
-# 第七史诗游戏相关
+# 第七史诗游戏
 DOMAIN-SUFFIX,playstove.com
 DOMAIN-SUFFIX,onstove.com
 DOMAIN-SUFFIX,smilegatestove.com
 DOMAIN-SUFFIX,netmarble.com
+
+#米哈游
+DOMAIN-SUFFIX,hoyoverse.com
