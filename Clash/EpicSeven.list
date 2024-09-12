@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,konami.com
 
 #第五人格国际服
 DOMAIN-SUFFIX,easebar.com
+
+#duolingo
+DOMAIN-KEYWORD,duolingo
